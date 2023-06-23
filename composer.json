@@ -1,7 +1,12 @@
 {
     "name": "harunurrashid/laravel-unique-slug",
     "description": "A unique slug for laravel",
-    "type": "composer-plugin",
+    "keywords": [
+        ":unique_slug",
+        "laravel",
+        ":package_slug"
+    ],
+    "homepage": "https://github.com/harunBdtask/laravel-unique-slug",
     "license": "MIT",
     "autoload": {
         "psr-4": {
